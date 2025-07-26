@@ -1,4 +1,4 @@
-<h1>Hey, I'm Ben! </h1>
+<h1>Hi Ben! </h1>
 
 <h2>👨‍💻 Projects:</h2>
 
