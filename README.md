@@ -4,7 +4,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Azure / Cloud Project</b>
-  - [Creating a Live SOC / Honeynet in Azure]([https://github.com/joshmadakor1/Cyber-Course/blob/main/README.md](https://github.com/Benjamainlouis/Azure-SOC))
+  - [Creating a Live SOC / Honeynet in Azure](https://github.com/Benjamainlouis/Azure-SOC)
 
 <h2> 🤳 Connect with me:</h2>
 
