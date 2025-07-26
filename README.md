@@ -1,4 +1,6 @@
-<h1>Hi Ben! </h1>
+<h1>Hi Ben Simoni! </h1>
+
+<b>Below is the link to my project</b>
 
 <h2>👨‍💻 Projects:</h2>
 
