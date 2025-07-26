@@ -1,11 +1,10 @@
 <h1>Hi Ben Simoni! </h1>
 
-<b>Below is the link to my project</b>
 
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Azure / Cloud Project</b>
-  - [Creating a Live SOC / Honeynet in Azure]((https://github.com/joshmadakor1/Cyber-Course/blob/main/README.md))
+  - [Creating a Live SOC / Honeynet in Azure](https://github.com/joshmadakor1/Cyber-Course/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
