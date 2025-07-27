@@ -5,6 +5,7 @@
 
 - <b>Azure / Cloud Project</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/Benjamainlouis/Azure-SOC)
+    - [Azure / Cloud Projet video demonstration](https://youtu.be/9aiXfF2uxRk) 
 
 <h2> 🤳 Connect with me:</h2>
 
